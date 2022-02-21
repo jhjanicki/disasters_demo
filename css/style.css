@@ -86,10 +86,6 @@ body {
     color: white;
   }
 
-  circle:hover {
-    cursor: pointer;
-  }
-
   .inline {
     display: inline-block;
     vertical-align: middle;
